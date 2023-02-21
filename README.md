@@ -36,7 +36,7 @@
 ### <img src="https://i.ibb.co/1GDSn2g/ffb2ef86f49379323b3d9225ff5cb9dc.jpg" width="25" height="25" title="Улиточка" alt="Улиточка"/>Чуть-чуть циферок: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dromgard&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=dromgard&theme=vue-dark&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
-![Codewars](https://github.r2v.ch/codewars?user=loose._.cannon&name=true&theme=default&hide_clan=true)  
+![Codewars](https://www.codewars.com/users/loose._.cannon/badges/large)  
 
 ---
 
