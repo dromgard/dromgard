@@ -4,7 +4,7 @@
 
 - В 2022 году я начал учиться на веб-разработчика в Яндекс Практикуме <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 - В 2023 я сдал диплом и закончил обучение :sunglasses:.
-- C 2023 работаю веб-разработчиком <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> :sunglasses:.
+- C 2023 работаю веб-разработчиком :man_technologist:.
 - Сейчас я продолжаю учиться самостоятельно и делаю собственные проекты :dog:	:cat:.
 - Ниже описан мой стек технологий, самые интересные проекты, немного циферок и некоторые факты обо мне.
 
